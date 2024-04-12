@@ -47,3 +47,8 @@ You can find examples of the described skills in the Examples of my work section
 
 The final project consisted of choosing a module or more from an application and start the testing process based on business specifications, from Test Planning until Test Completion.
 The test plan, test cases, bugs, test results for the final project can be found here: [Final project](https://drive.google.com/file/d/1h75O20QnXuMpWPKzYW-e8jYcWN-6n2uY/view?usp=sharing)
+
+#### API project for Simple Books
+
+The project had the purpose of learning about the API and usage of Postman tool, by implementing tests according to the documentation. 
+The details about the requests and final reports can be found here: [API Project](https://drive.google.com/file/d/1GARwvgxxz4b584g_YD3waH-AZYuvI-OV/view?usp=drive_link)
